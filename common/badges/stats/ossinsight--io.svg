@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="20" role="img" aria-label="ossinsight.io">
+  <title>ossinsight.io</title>
+  <svg width="96" height="20">
+    <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+    <clipPath id="r"><rect width="96" height="20" rx="3" fill="#f5f5f5"/></clipPath>
+    <defs>
+      <filter id="drop-shadow-text" height="130%">
+        <feGaussianBlur in="SourceAlpha" stdDeviation="8"/>
+        <feOffset dx="2" dy="2" result="offsetblur"/>
+        <feComponentTransfer>
+          <feFuncA type="linear" slope="1.8"/>
+        </feComponentTransfer>
+        <feMerge> 
+          <feMergeNode/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <g clip-path="url(#r)">
+      <rect width="96" height="20" fill="#f5f5f5"/>
+      <rect width="96" height="20" fill="url(#s)"/>
+    </g>
+    <g fill="#fff" text-anchor="left" font-family="Arial Unicode MS" text-rendering="geometricPrecision" font-size="110">
+      <text aria-hidden="true" x="240" y="145" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="250">OSS</text>
+      <text x="235" y="140" transform="scale(.1)" fill="#ffffff" textLength="250" style="filter:url(#drop-shadow-text)">OSS</text>
+      <text aria-hidden="true" x="520" y="145" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="400">Insight</text>
+      <text x="515" y="140" transform="scale(.1)" fill="#ffe895" textLength="400" style="filter:url(#drop-shadow-text)">Insight</text>
+    </g>
+  </svg>
+  <svg width="96" height="20" viewBox="0 0 516 516">
+    <defs>
+      <style>.cls-1,.cls-2{fill:#fff;}.cls-3{stroke:#000;}.cls-3,.cls-4{fill:#ffd948;}.cls-3,.cls-4,.cls-2,.cls-5{stroke-miterlimit:10;stroke-width:20px;}.cls-4,.cls-2,.cls-5{stroke:#fff;}.cls-6{filter:url(#drop-shadow-icon);}</style>
+      <filter id="drop-shadow-icon" filterUnits="userSpaceOnUse">
+        <feOffset dx="7" dy="7"/>
+        <feGaussianBlur result="blur" stdDeviation="30"/>
+        <feFlood flood-color="#000" flood-opacity=".75"/>
+        <feComposite in2="blur" operator="in"/>
+        <feComposite in="SourceGraphic"/>
+      </filter>
+    </defs>
+    <g transform="translate(-940,-80)">
+      <g style="transform: scale(1.0)">
+        <g id="oss-insight-icon" class="cls-6">
+          <rect class="cls-1" x="27.75" y="240.68" width="64.7" height="106.35" rx="30.79" ry="30.79"/>
+          <rect class="cls-1" x="421.67" y="240.68" width="64.7" height="106.35" rx="30.79" ry="30.79"/>
+          <rect class="cls-1" x="212.43" y="137.33" width="79.65" height="130.92" rx="30.79" ry="30.79"/>
+          <rect class="cls-4" x="77.56" y="169.89" width="362.47" height="311.11" rx="89.48" ry="89.48"/>
+          <circle class="cls-2" cx="258.53" cy="325.35" r="96.91"/>
+          <circle class="cls-3" cx="258.53" cy="325.35" r="90.34"/>
+          <circle class="cls-5" cx="258.53" cy="325.35" r="50.92"/>
+          <circle class="cls-2" cx="238.82" cy="307.28" r="13.14"/>
+        </g>
+      </g>
+    </g>
+  </svg>
+</svg>
