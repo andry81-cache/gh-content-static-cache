@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="20" role="img" aria-label="Support: IssueHunt">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138" height="20" role="img" aria-label="Support: IssueHunt">
   <title>Donate: IssueHunt</title>
   <linearGradient id="s" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
@@ -10,7 +10,7 @@
   <g clip-path="url(#r)">
     <rect width="70" height="20" fill="#555"/>
     <rect x="70" width="70" height="20" fill="#2CC28C"/>
-    <rect width="140" height="20" fill="url(#s)"/>
+    <rect width="138" height="20" fill="url(#s)"/>
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
     <defs>
