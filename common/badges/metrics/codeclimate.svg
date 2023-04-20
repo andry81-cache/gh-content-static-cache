@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="20" viewBox="0 0 100 20">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="100" height="20" fill="#555" rx="3"/>
+    <g fill="#FFF" transform="translate(6 5)">
+      <polygon points="11.135 0 8.018 3.089 9.872 4.926 11.135 3.674 14.718 7.226 16.571 5.389"/>
+      <polygon points="7.518 3.893 5.613 2.065 .754 6.729 0 7.453 1.914 9.29 2.667 8.566 5.131 6.201 5.613 5.738 7.518 7.567 9.312 9.29 11.226 7.453 9.431 5.73"/>
+    </g>
+    <g fill="#fff" text-anchor="left" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+      <text aria-hidden="true" x="270" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="670">codeclimate</text>
+      <text x="270" y="140" transform="scale(.1)" fill="#fff" textLength="670">codeclimate</text>
+    </g>
+  </g>
+</svg>
