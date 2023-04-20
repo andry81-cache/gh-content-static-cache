@@ -1,4 +1,7 @@
 2023.04.20:
+* new: common/avatars/orgs/andry81-cache.png: added cache group account avatar
+
+2023.04.20:
 * new: common/badges/metrics: added metric services badges
 
 2022.09.07:
