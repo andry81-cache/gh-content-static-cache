@@ -1,3 +1,7 @@
+2023.05.04:
+* new: common/buttons: github-download-button.html, github-download-button.svg: embeddable github download buttons (html - styled interactive, svg - static)
+* new: common/logos/github/github-mark*.svg: standalone github svg logo files
+
 2023.04.20:
 * new: common/avatars/orgs/andry81-cache.png: added cache group account avatar
 
