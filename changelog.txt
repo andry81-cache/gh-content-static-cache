@@ -1,4 +1,7 @@
 2023.10.29:
+* new: common/logos: floppy, totalcmd, doublecmd: added logos
+
+2023.10.29:
 * new: common/readmes/releases/Release.md.in: list of all links and badges in a semi-template form for the releases section
 
 2023.05.04:
