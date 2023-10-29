@@ -1,0 +1,37 @@
+<!-- list of all links and badges in a semi-template form for the releases section -->
+
+<p>
+   <!-- Commits since {{GH_TAG}}...{{GH_BRANCH}} -->
+   <a href="https://github.com/{{GH_OWNER}}/{{GH_REPO}}/compare/{{GH_TAG}}...{{GH_BRANCH}}">
+     <img src="https://img.shields.io/github/commits-since/{{GH_OWNER}}/{{GH_REPO}}/{{GH_TAG}}/{{GH_BRANCH}}?label=Github%20since%20{{GH_TAG}}...{{GH_BRANCH}}" valign="middle" alt="GitHub commits {{GH_TAG}}...{{GH_BRANCH}}" /></a>
+
+   <!-- Commits beetween {{GH_TAG}}...{{GH_BRANCH}} -->
+ • <a href="https://github.com/{{GH_OWNER}}/{{GH_REPO}}/compare/{{GH_TAG}}...{{GH_BRANCH}}">
+     <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Github%20commits%20{{GH_TAG}}...{{GH_BRANCH}}&query=total_commits&url=https://api.github.com/repos/{{GH_OWNER}}/{{GH_REPO}}/compare/{{GH_TAG}}...{{GH_BRANCH}}" valign="middle" alt="GitHub commits {{GH_TAG}}...{{GH_BRANCH}}" /></a>
+
+   <!-- Commits beetween {{PREV_GH_TAG}}...{{GH_TAG}} -->
+ • <a href="https://github.com/{{GH_OWNER}}/{{GH_REPO}}/compare/{{PREV_GH_TAG}}...{{GH_TAG}}">
+     <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Github%20commits%20{{PREV_GH_TAG}}...{{GH_TAG}}&query=total_commits&url=https://api.github.com/repos/{{GH_OWNER}}/{{GH_REPO}}/compare/{{PREV_GH_TAG}}...{{GH_TAG}}" valign="middle" alt="GitHub commits {{PREV_GH_TAG}}...{{GH_TAG}}" /></a>
+
+   <!-- GitHub downloads of {{GH_REPO}}-{{GH_TAG}}.7z -->
+ • <a href="#">
+     <img src="https://img.shields.io/github/downloads/{{GH_OWNER}}/{{GH_REPO}}/{{DL_NAME}}/total?label=Github%20dl|{{DL_NAME}}" valign="middle" alt="GitHub downloads" /></a>
+
+   <!-- Sourceforge downloads of {{SF_REPO}}-{{SF_TAG}}.7z -->
+ • <a href="https://sourceforge.net/projects/{{SF_PROJECT}}/files/{{SF_REPO}}/{{SF_REPO}}-{{SF_TAG}}.7z/stats/timeline?dates=1970-01-01%20to%209999-12-31&period=daily">
+     <img src="https://img.shields.io/sourceforge/dt/{{SF_PROJECT}}/{{SF_REPO}}/{{SF_REPO}}-{{SF_TAG}}.7z?label=Sourceforge%20dl|{{SF_TAG}}" valign="middle" alt="Sourceforge downloads" /></a>
+
+   <!-- totalcmd.net tacklebar downloads -->
+ • <a href="http://totalcmd.net/plugring/tacklebar.html">
+     <img src="https://github.com/andry81-cache/andry81--gh-content-cache/raw/master/repo/andry81/tacklebar/badges/metrics/totalcmd-tacklebar-downloads.svg" valign="middle" alt="totalcmd.net tacklebar downloads" /></a>
+</p>
+
+<p>
+   <!-- GitHub download link -->
+   <a href="https://github.com/{{GH_OWNER}}/{{GH_PROJECT}}/releases/download/{{GH_TAG}}/{{GH_REPO}}-{{GH_TAG}}.7z">
+     <img src="https://github.com/{{GH_OWNER}}-cache/gh-content-static-cache/raw/master/common/buttons/github-download-button.svg" alt="GitHub version download" /></a>
+
+   <!-- Sourceforge download link -->
+ • <a href="https://sourceforge.net/projects/{{SF_PROJECT}}/files/{{SF_REPO}}-{{SF_TAG}}.7z/download">
+     <img src="https://github.com/{{GH_OWNER}}-cache/gh-content-static-cache/raw/master/common/images/buttons/sourceforge-download-button.png" alt="Sourceforge version download" /></a>
+</p>
