@@ -1,4 +1,7 @@
 2023.10.29:
+* new: common/logos: totalcmd, doublecmd: added resized to 16x16 logos
+
+2023.10.29:
 * new: common/logos: floppy, totalcmd, doublecmd: added logos
 
 2023.10.29:
