@@ -1,3 +1,7 @@
+2023.11.01:
+* new: common/logos/nsis: added logos
+* new: common/badges/support: added issuehunt repositories badge
+
 2023.10.29:
 * new: common/logos: totalcmd, doublecmd: added resized to 16x16 logos
 
