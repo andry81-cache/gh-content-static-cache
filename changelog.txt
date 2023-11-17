@@ -1,3 +1,6 @@
+2023.11.17:
+* new: common/logos: apache, subversion: added svg plus resized to 16x16 png
+
 2023.11.01:
 * new: common/logos/nsis: added logos
 * new: common/badges/support: added issuehunt repositories badge
