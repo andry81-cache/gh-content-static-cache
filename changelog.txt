@@ -1,4 +1,7 @@
 2023.11.17:
+* new: common/logos/cygwin: added ico plus 16x16 png
+
+2023.11.17:
 * new: common/logos: scite, winmerge: added webp/ico plus resized to 16x16 png
 
 2023.11.17:
