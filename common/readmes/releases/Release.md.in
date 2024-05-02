@@ -35,3 +35,15 @@
  • <a href="https://sourceforge.net/projects/{{SF_PROJECT}}/files/{{SF_REPO}}-{{SF_TAG}}.7z/download">
      <img src="https://github.com/{{GH_OWNER}}-cache/gh-content-static-cache/raw/master/common/images/buttons/sourceforge-download-button.png" alt="Sourceforge version download" /></a>
 </p>
+
+<p>
+   <!-- VirusTotal browser extensions to check download link -->
+   <h3>VT4Browsers: VirusTotal extension for browsers.</h3>
+   <a href="https://docs.virustotal.com/docs/browser-extensions#vt4browsers">https://docs.virustotal.com/docs/browser-extensions#vt4browsers</a><br/><br/>
+   Addons: <a href="https://chrome.google.com/webstore/detail/efbjojhplkelaegfbieplglfidafgoka">
+     <img src="https://img.shields.io/chrome-web-store/users/efbjojhplkelaegfbieplglfidafgoka?logo=googlechrome&label=Google%20Chrome%20(user)" alt="Google Chrome (users)" /></a>
+ • <a href="https://addons.mozilla.org/en-US/firefox/addon/vt4browsers/">
+     <img src="https://img.shields.io/amo/users/vt4browsers?logo=firefoxbrowser&label=Mozilla%20Firefox%20(users)" alt="Mozilla Firefox (users)" /></a>
+ • <a href="https://microsoftedge.microsoft.com/addons/detail/vt4browsers/feklilkmifhginhfoogmgelcopaplodb">
+     <img src="https://img.shields.io/badge/Microsoft%20Edge-...-blue?logo=microsoftedge" alt="Microsoft Edge" /></a>
+</p>
