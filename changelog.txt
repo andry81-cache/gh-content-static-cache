@@ -1,3 +1,6 @@
+2024.11.04:
+* new: common/badges/static/success.svg: `success` static badge
+
 2024.05.02:
 * new: common/readmes/releases/Release.md.in: VirusTotal browser extensions to check download link
 
