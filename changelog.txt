@@ -1,4 +1,7 @@
 2024.11.04:
+* new: common/readmes/gh-stats/README.md.in: semi-template `README.md` for `{{GH_OWNER}}/{{GH_REPO}}--gh-stats` repo
+
+2024.11.04:
 * new: common/badges/static/success.svg: `success` static badge
 
 2024.05.02:
