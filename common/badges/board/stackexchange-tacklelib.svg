@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="149" height="20" role="img" aria-label="stackexchange: tacklelib">
+  <title>stackexchange: tacklelib</title>
+  <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient>
+  <clipPath id="r"><rect width="149" height="20" rx="3" fill="#fff"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="94" height="20" fill="#f3f8fa"/>
+    <rect x="93" width="149" height="20" fill="#8fd8f6"/>
+    <rect width="149" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#fff" text-anchor="left" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <text aria-hidden="true" x="40" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">Stack</text>
+    <text x="40" y="140" transform="scale(.1)" fill="#050708">Stack</text>
+    <text aria-hidden="true" x="350" y="150" fill="#a1a1a1" fill-opacity=".3" transform="scale(.1)">Exchange</text>
+    <text x="350" y="140" transform="scale(.1)" fill="#195398" stroke="#195398" stroke-width="3">Exchange</text>
+    <text aria-hidden="true" x="980" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)">tacklelib</text>
+    <text x="980" y="140" transform="scale(.1)" fill="#fff">tacklelib</text>
+  </g>
+</svg>

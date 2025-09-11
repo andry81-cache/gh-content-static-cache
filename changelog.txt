@@ -1,3 +1,6 @@
+2025.08.11:
+* new: common/badges/board/stackexchange-*.svg: added `stackexchange` badges
+
 2025.04.08:
 * new: common/logos/windows/winvista.png: added Windows Vista logo
 
