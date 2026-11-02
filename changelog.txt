@@ -1,3 +1,6 @@
+2026.11.02:
+* new: common/badges/static/status--archived.svg: `status/archived` static badge
+
 2025.08.13:
 * changed: common/badges/board/stackexchange-*.svg: improve visibility
 
